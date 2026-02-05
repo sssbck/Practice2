@@ -16,7 +16,7 @@ if __name__ == "__main__":
     print("bool([1,2]) =", bool([1, 2]))  
 
     print("bool(None) =", bool(None))    
-
+    
     text = "data"
     if text:
         print("Строка не пустая")
